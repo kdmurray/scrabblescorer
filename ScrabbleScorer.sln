@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrabbleScorer", "ScrabbleScorer\ScrabbleScorer.csproj", "{DEC4E504-0419-4488-A4B8-3569AA3860FF}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC4E504-0419-4488-A4B8-3569AA3860FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC4E504-0419-4488-A4B8-3569AA3860FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC4E504-0419-4488-A4B8-3569AA3860FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC4E504-0419-4488-A4B8-3569AA3860FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
